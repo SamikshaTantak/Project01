@@ -40,3 +40,67 @@
 #btn{
   background-color: blue;
 }
+#footer {
+  position:absolute;      
+  height: 60px;
+  background-color: 	rgb(156, 192, 246);
+  bottom: 0px;
+  margin-bottom: 0px;
+  font-size: 12px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+}
+
+#about{
+  forced-color-adjust: blue;
+}
+
+#image{
+  align-content: flex-start;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+#navbar{
+  background-color: 	rgb(156, 192, 246);
+  height: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+}
+
+#book{
+  background-color: 	rgb(104, 130, 224);
+  border: none;
+  border-radius: 10px;
+  align-self:center;
+  margin-top: 8px;
+
+}
+
+#text{
+  background-color: rgb(217, 217, 217);
+  width: 260px;
+  height: 210px;
+  align-self: center;
+  font-size: 13px;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  forced-color-adjust: black;
+  margin-top: 100px;
+  margin-left: 0px;
+}
+
+#start{
+  width: 100px;
+  height: 30px;
+  align-self: flex-end;
+  font-size: 12px;
+  border: none;
+  border-radius: 10px;
+  align-self:center;
+  background-color: rgb(15, 86,126);
+  margin-left: 90px;
+}
+
