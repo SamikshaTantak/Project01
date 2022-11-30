@@ -7,7 +7,7 @@ const section = () => {
     <div className="col">
       <img src={image} align="right" width="650" height="400" id="image"></img>
     </div>
-    <div class="col">
+    <div className="col">
       <div className="row" id="text">
       <br></br>Let’s Explore India !!<br></br>
       India is an ancient country. Historical 

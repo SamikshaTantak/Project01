@@ -104,3 +104,14 @@
   margin-left: 90px;
 }
 
+#btn{
+	background-image: url("ANDHRA-PRADESH.jpg");
+	width: 100px;
+  height: 50px;
+}
+
+#btn1{
+	background-image: url("Bihar.jpg");
+	width: 100px;
+  height: 50px;
+}
