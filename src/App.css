@@ -105,13 +105,13 @@
 }
 
 #btn{
-	background-image: url("ANDHRA-PRADESH.jpg");
+	background-image: url("Assets\ANDHRA-PRADESH.jpg");
 	width: 100px;
   height: 50px;
 }
 
 #btn1{
-	background-image: url("Bihar.jpg");
+	background-image: url("Assets\Bihar.jpg");
 	width: 100px;
   height: 50px;
 }
